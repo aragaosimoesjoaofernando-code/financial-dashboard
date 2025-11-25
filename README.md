@@ -11,3 +11,9 @@ Sistema de análise de mercado financeiro com Python, VS Code e Databricks.
 - Processamento de dados com pandas e numpy
 
 ## 📁 Estrutura do Projeto
+inancial_dashboard/
+├── src/ # Código fonte Python
+├── notebooks/ # Notebooks do Databricks
+├── data/ # Dados processados
+├── requirements.txt # Dependências
+└── README.md # Documentação
