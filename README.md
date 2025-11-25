@@ -1,4 +1,4 @@
-markdown
+
 # 📊 Dashboard Financeiro
 
 Sistema de análise de mercado financeiro com Python, VS Code e Databricks.
