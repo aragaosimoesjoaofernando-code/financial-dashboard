@@ -17,3 +17,11 @@ inancial_dashboard/
 ├── data/ # Dados processados
 ├── requirements.txt # Dependências
 └── README.md # Documentação
+
+
+## 🛠️ Instalação
+
+```bash
+git clone https://github.com/seu-usuario/financial-dashboard.git
+cd financial-dashboard
+pip install -r requirements.txt
